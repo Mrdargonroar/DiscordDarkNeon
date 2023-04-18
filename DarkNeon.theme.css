@@ -17,6 +17,8 @@
 @import url('https://commandcrafterhd.github.io/DiscordDarkNeon/css/hideUsers.css');
 /* This import adds the collapsible user-list. Remove it/comment it out to disable that feature */
 
+@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/crtEffect.css');
+
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
   --rgb-highlight: 250, 50, 50; /* The main highlight color */
